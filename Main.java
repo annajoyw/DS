@@ -9,5 +9,6 @@ class Main{
     list.insertAtHead(20);
 
     System.out.println(list);
+    System.out.println("Length: " + list.length());
   }
 }
