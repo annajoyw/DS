@@ -1,5 +1,5 @@
-class Main{
-   public static void main(String[] args) {
+public class LinkedListDemo{
+  public static void main(String[] args) {
     LinkedList list = new LinkedList();
 
     list.insertAtHead(5);
