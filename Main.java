@@ -8,7 +8,10 @@ class Main{
     list.insertAtHead(12);
     list.insertAtHead(20);
 
-    System.out.println(list);
-    System.out.println("Length: " + list.length());
+    //list.deleteFromHead();
+
+    //System.out.println(list);
+    //System.out.println("Length: " + list.length());
+    System.out.println("Found: " + list.find(2));
   }
 }
